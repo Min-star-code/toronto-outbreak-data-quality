@@ -1,0 +1,8 @@
+setting,closed_outbreaks,avg_duration_days,longest_days,pct_over_30_days
+LTCH,4002,17.8,126,10.2
+Retirement Home,1170,16.5,84,9.1
+Hospital-Acute Care,893,13.8,134,4.6
+Hospital-Chronic Care,802,12.9,55,3.4
+Hospital-Psychiatric,112,11.4,34,3.6
+Transitional Care,26,15.4,33,7.7
+Shelter,3,216.7,578,66.7

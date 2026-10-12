@@ -1,0 +1,14 @@
+agent_group,outbreaks,pct_of_outbreaks,avg_duration_days
+COVID-19,3353,47.7,19.7
+Influenza A,927,13.2,12.0
+Not identified,671,9.5,12.0
+Rhinovirus / Enterovirus,568,8.1,13.5
+RSV,350,5.0,14.5
+Norovirus,278,4.0,14.3
+Coronavirus (other),255,3.6,13.3
+Parainfluenza,241,3.4,14.7
+Metapneumovirus,197,2.8,14.4
+Influenza B,128,1.8,13.7
+CPE,25,0.4,26.4
+C. difficile,21,0.3,36.1
+Other,15,0.2,68.4

@@ -1,0 +1,29 @@
+{
+  "source_files": 11,
+  "records": 7029,
+  "raw_institution_names": 4199,
+  "facility_names_after_removing_unit": 720,
+  "raw_addresses": 623,
+  "sites_by_address": 603,
+  "sites_with_more_than_one_facility_name": 195,
+  "raw_agent_labels": 66,
+  "agent_groups": 13,
+  "second_agent_blank": 5711,
+  "second_agent_text_none": 1018,
+  "median_duration_days": 13.0,
+  "mean_duration_days": 16.5,
+  "validation": {
+    "R1": 0,
+    "R2": 0,
+    "R3": 0,
+    "R4": 0,
+    "R5": 0,
+    "R6": 0,
+    "R7": 6,
+    "R8": 18,
+    "R9": 671,
+    "R10": 4,
+    "R11": 0,
+    "R12": 100
+  }
+}
