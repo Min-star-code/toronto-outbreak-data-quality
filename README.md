@@ -2,6 +2,15 @@
 
 Toronto Public Health publishes outbreaks in hospitals, long-term care homes, and retirement homes as one file per year. This project combines 11 yearly files into one validated table, documents every field, measures data quality with SQL rules, and produces reporting extracts.
 
+```mermaid
+flowchart LR
+    A[11 yearly CSV files<br/>2016-2026] --> B[Align columns<br/>and combine] --> C[Standardize names,<br/>sites and agents]
+    C --> D[12 SQL<br/>validation rules] --> E[Data quality report<br/>+ data dictionary]
+    C --> F[Reporting extracts<br/>+ Excel workbook]
+```
+
+![Bar chart of records flagged by each validation rule: 671 with no identified agent, 100 truncated names, 18 over 90 days, 6 duplicates, 4 with several agents](docs/validation_rules.png)
+
 ## Findings
 
 **Data quality**
